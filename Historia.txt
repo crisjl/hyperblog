@@ -10,3 +10,4 @@ ya hay nuevos cambios
 
 se retoma el cuero de git el dia 01 de marzo de 2024.
 
+hoy comenzamos con los archivos de html y css
